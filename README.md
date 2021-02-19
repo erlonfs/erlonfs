@@ -1,20 +1,6 @@
 ### Hi there 👋
 
 <div align="left">
-   Coding in C#, MQL5, Javascript and concepts such as DDD, TDD, SOLID and among other design pattern
-</div>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=erlonfs&count_private=true&show_icons=true&hide_title=true&hide=stars" />
-
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=erlonfs&theme=flat&no-frame=true&margin-w=30" />
-</div>
-
-<!--
-**erlonfs/erlonfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -23,4 +9,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+</div>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=erlonfs&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=erlonfs&theme=flat&no-frame=true&margin-w=30" />
+</div>
