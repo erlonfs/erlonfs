@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=erlonfs&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=erlonfs&theme=flat&no-frame=true&margin-w=30" />
+</div>
+
 <!--
 **erlonfs/erlonfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
