@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Coding in C#, MQL5, Javascript and concepts such as DDD, TDD, SOLID and among other design pattern
+<div align="left">
+   Coding in C#, MQL5, Javascript and concepts such as DDD, TDD, SOLID and among other design pattern
+</div>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=erlonfs&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
