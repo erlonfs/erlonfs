@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-<div align="center">
-   - Coding in C#, MQL5, Javascript and concepts such as DDD, TDD, SOLID and among other design pattern
-</div>
+About me:
 
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=erlonfs&count_private=true&show_icons=true&hide_title=true&hide=stars" />
-</div>
+- 🔭 I am currently working at Multilog as a software developer
+- 🌱 I'm ever learning about clean code and architecture
+- 💡 I try to help people who are starting in programming
+- 💬 Ask me about anything
+- 📫 How to contact me: [My Linkedin](https://www.linkedin.com/in/erlonfs), [My E-mail](erlon.efs@gmail.com)
+
+---
 
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=erlonfs&theme=flat&no-frame=true&margin-w=30" />
