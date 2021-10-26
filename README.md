@@ -2,7 +2,7 @@
 
 About me:
 
-- 🔭 I am currently working at [Sled](https://www.sled.com.br/) as a software engineer
+- 🔭 I am currently working as software engineer
 - 🌱 I'm ever learning about clean code and architecture
 - 💡 I try to help people who are starting in programming
 - 💬 Ask me about anything
